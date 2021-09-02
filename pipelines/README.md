@@ -12,6 +12,8 @@ In this section of the repo you can:
 
 - Explore how to set-up the MLOps project with Amazon SageMaker Projects & AWS CodePipeline (step 3 above), for maintaining code/source control, by:
   - Following the instructions in the documentation for [Amazon SageMaker MLOps Project Walkthrough](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-walkthrough.html). Choose the template: **"MLOps template for model Building and Training"**
-  - In the **"Make a Change in the Code"** step, copy/replace the files included in this repo folder (pipeline.py, preprocess.py, evaluate.py, lambda_deploy.py, and codebuild-buildspec.yml) and commit your changes.
+  - In the **"Make a Change in the Code"** step, copy/replace the files included in this repo folder (pipeline.py, preprocess.py, evaluate.py, lambda_deploy.py, and codebuild-buildspec.yml). Commit (and don't forget to push) your changes, this will trigger the CodePipeline execution.
 
 ![sample project pipeline](./img/2.png)
+
+Remember you can monitor your project and pipeline in Amazon SageMaker Studio.
