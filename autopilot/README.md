@@ -1,4 +1,4 @@
-#Amazon SageMaker Autopilot with AWS Step Functions
+# Amazon SageMaker Autopilot with AWS Step Functions
 
 ### Why am I here?
 In this section you are going to explore the creation of an Amazon SageMaker Autopilot Pipeline using and AWS Step Functions workflow.
