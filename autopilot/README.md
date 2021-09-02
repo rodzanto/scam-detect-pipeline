@@ -3,7 +3,7 @@
 ### Why am I here?
 In this section you are going to explore the creation of an Amazon SageMaker Autopilot Pipeline using and AWS Step Functions workflow.
 
-### Why do I need?
+### Why do I need it?
 
 * **Web Browser** I imagine you already have one if you are reading this.
 * **Labeled Data** You will need to provide labeled data (**.csv**) in order to create a model to fullfill your business need.   
